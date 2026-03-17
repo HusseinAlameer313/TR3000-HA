@@ -1,3 +1,0 @@
-src-git immortalwrt https://github.com/immortalwrt/packages
-src-git luci https://github.com/immortalwrt/luci
-src-git routing https://github.com/immortalwrt/routing
