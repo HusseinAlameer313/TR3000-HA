@@ -1,5 +1,0 @@
-#!/bin/sh
-uci set passwall.@global[0].enabled='1'
-uci commit passwall
-/etc/init.d/passwall enable
-exit 0

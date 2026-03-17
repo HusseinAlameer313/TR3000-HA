@@ -1,4 +1,0 @@
-#!/bin/sh
-sleep 20
-/etc/init.d/passwall restart
-exit 0
